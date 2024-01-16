@@ -1,4 +1,4 @@
-# Shopping List APPLICATION
+# Shopping List Application
 This project is about a simple shopping list  application that helps users keep track of items they
 want to purchase at a store or market.
 
