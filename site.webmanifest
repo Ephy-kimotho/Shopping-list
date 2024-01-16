@@ -1,6 +1,6 @@
 {
-    "name":"To-do App",
-    "short_name":"To-do App",
+    "name":"Add to cart",
+    "short_name":"Add to cart",
     "icons":[
             {"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
             {"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}
